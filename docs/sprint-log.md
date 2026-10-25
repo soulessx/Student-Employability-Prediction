@@ -13,7 +13,7 @@ By the end of this assignment all of the issues will be done and work perfectly.
 | #3 | Add structure and roadmap to the README | Todo |
 | #4 | Add evidence to the problem statement | Done |
 | #5 | Choose the specialized technology and list 3 sources | Done |
-| #6 | Outline the technology explanation | Todo |
+| #6 | Outline the technology explanation | Done |
 
 ### Daily standup notes
 - Standup 1: I will complete Issues #1–#3. Possible blockers include ensuring the acceptance criteria are testable and the requirements are correctly linked.
