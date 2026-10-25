@@ -13,6 +13,7 @@ Therefore, this project aims to develop a system that combines machine learning-
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Technology](docs/technology.md)
 - [Sprint log](docs/sprint-log.md)
 
 ## Project structure
@@ -26,19 +27,20 @@ Therefore, this project aims to develop a system that combines machine learning-
 |   |-- requirements.md
 |   |-- user-stories.md
 |   |-- sprint-log.md
+|   |-- technology.md
 |-- src/
     |-- README.md      (code will go here)
 ```
 
 ## Roadmap
 - [x] Problem statement written
-- [ ] Requirements numbered and linked to user stories
-- [ ] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
+- [x] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
-Sprint 1 completed (CSC649, Week 3)
+Assignment 1 Completed
 
 ## Author
 Wan Aqmal Ariff Qhausar
